@@ -98,6 +98,11 @@ Link, DA, PA, Title Length. and make to show them in a table
 
 NOTE: We can ask any data to showing in table form. serp results means google search result.
 
+Ex: 7
+```
+You are an expert in quantum computing and have over 10 years of experience in android application development.  I want you to be a hardcore programmer and write the code for my needs
+```
+
 IMP things to understand on chat gpt playground
 --
 https://platform.openai.com/playground
